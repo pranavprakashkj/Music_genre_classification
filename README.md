@@ -1,3 +1,3 @@
 # final_project
 
-change DATASET_PATH and you're good to go!👍
+change paths in the necessary locations and you're good to go!👍
